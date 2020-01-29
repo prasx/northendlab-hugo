@@ -33,15 +33,9 @@ tools:
   - name: Bitly Link
     image: "/images/tools/Bitly.jpg"
     link: https://bitly.com/
-  - name: Hotjar
-    image: "/images/tools/Hotjar.jpg"
-    link: https://www.hotjar.com/
   - name: Ahrefs
     image: "/images/tools/Ahrefs.jpg"
     link: https://ahrefs.com/
   - name: Google Trends
     image: "/images/tools/GoogleTrends.jpg"
     link: https://trends.google.com/trends/
-  - name: Google Analytics
-    image: "/images/tools/Google-Analytics.jpg"
-    link: https://analytics.google.com/analytics/web
