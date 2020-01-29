@@ -1,10 +1,10 @@
 baseURL = "https://milleu.netlify.com"
 disqusShortname = ""
-languageCode = "en-us"
+languageCode = "ru-Ru"
 paginate = "5"
 summaryLength = "10"
 theme = "northendlab-hugo"
-title = "Northendlab | Blog Template"
+title = "Test"
 [[menu.footer]]
 URL = "contact"
 name = "Contact"
